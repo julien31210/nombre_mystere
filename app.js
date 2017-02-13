@@ -13,6 +13,6 @@ $(document).ready(function(){
 	},5000)
 
 	$("#num").fadeOut(3500, function(){
-		$ (this).show().html("");
+		
 	})
 });
